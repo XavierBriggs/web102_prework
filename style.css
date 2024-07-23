@@ -83,3 +83,8 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.show-info{
+    width: 100px;
+    height: 100px;
+}
