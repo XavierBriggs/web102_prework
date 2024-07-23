@@ -1,6 +1,7 @@
 // Image credits: Kickstarter
-const games = ` [
+const games =` [
   {
+    "id": 1,
     "name": "Heroes Of Mythic Americas",
     "description": "An exciting 5e RPG supplement that heroically represents pre-Columbian American cultures and mythologies",
     "pledged": 1572,
@@ -9,6 +10,7 @@ const games = ` [
     "img": "./assets/heroes_of_mythic_americas.png"
   },
   {
+    "id": 2,
     "name": "Cube Monster",
     "description": "Be the first champion to reach the top of Mount Kubia in a solo or competitive engine building strategy game",
     "pledged": 29446,
@@ -17,6 +19,7 @@ const games = ` [
     "img": "./assets/cube_monster.png"
   },
   {
+    "id": 3,
     "name": "Zoo Tycoon: The Board Game",
     "description": "Your zoo in a box with more than 230 Animal Meeples. A highly thematic board game experience for 1-4 players.",
     "pledged": 442602,
@@ -25,6 +28,7 @@ const games = ` [
     "img": "./assets/zoo_tycoon.png"
   },
   {
+    "id": 4,
     "name": "Deity Tarot",
     "description": "A fully illustrated 78-card tarot deck with a divinely exalted take on the famous Smith-Waite tarot deck.",
     "pledged": 109,
@@ -33,6 +37,7 @@ const games = ` [
     "img": "./assets/deity_tarot.png"
   },
   {
+    "id": 5,
     "name": "Camouflage | A hand-painting puzzle/adventure game",
     "description": "Paint your own camouflage to retrieve information, access secret locations and remove the threat to your fellow flying squirrels.",
     "pledged": 698,
@@ -41,6 +46,7 @@ const games = ` [
     "img": "./assets/camouflage.png"
   },
   {
+    "id": 6,
     "name": "Beep Bapp Boom",
     "description": "The time to explode is getting shorter and shorter, please be alert!",
     "pledged": 44,
@@ -49,6 +55,7 @@ const games = ` [
     "img": "./assets/beep_bapp_boom.png"
   },
   {
+    "id": 7,
     "name": "Frosthaven",
     "description": "Euro-inspired dungeon crawling sequel to the 2017 smash hit Gloomhaven",
     "pledged": 69608,
@@ -57,6 +64,7 @@ const games = ` [
     "img": "./assets/frosthaven.png"
   },
   {
+    "id": 8,
     "name": "Mislight - An Adventure Game With A Small Touch Of Thriller",
     "description": "Be the Light in a realm of Darkness",
     "pledged": 1036,
@@ -65,6 +73,7 @@ const games = ` [
     "img": "./assets/mislight.png"
   },
   {
+    "id": 9,
     "name": "How to Read Minds 2 Kit: Ellusionist x Peter Turner",
     "description": "Command Attention With These REAL Mind Reading Techniques That Anyone Can Do... The Contents Inside This Kit Will Silence Skeptics.",
     "pledged": 147975,
@@ -73,6 +82,7 @@ const games = ` [
     "img": "./assets/how_to_read_minds_2.png"
   },
   {
+    "id": 10,
     "name": "A Wayfarer's Tale",
     "description": "A Wayfarer's Tale, is a Solo to 4 player game where you explore uncharted islands, collecting Treasure while avoiding Monsters.",
     "pledged": 13039,
@@ -81,6 +91,7 @@ const games = ` [
     "img": "./assets/wayfarers_tale.png"
   },
   {
+    "id": 11,
     "name": "Kingdom Death: Monster 1.5",
     "description": "A cooperative nightmare horror game experience",
     "pledged": 94139,
